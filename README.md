@@ -1,0 +1,2 @@
+# dovapp
+cordova test
